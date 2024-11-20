@@ -22,8 +22,10 @@ def save_cds_file(cds_key, cds_url, filename):
 			'url': cds_url
 		}
 		yaml.dump(data, f)
-# "https://cds.climate.copernicus.eu/api/v2.ui/resources/reanalysis-era5-single-levels"
-def get_latest_available_date(api_url="https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-single-levels", retries=3, timeout=5):
+# "https://cds.climate.copernicus.eu/api/v2.ui/resources/reanalysis-era5-single-levels" old CDS api url
+# "https://cds.climate.copernicus.eu/api/resources/reanalysis-era5-single-levels" tested if this is the new CDS api url
+
+def get_latest_available_date(api_url="https://cds.climate.copernicus.eu/api/retrieve/v1/processes/reanalysis-era5-single-levels", retries=3, timeout=5):
     for attempt in range(retries):
         try:
             result = requests.get(api_url, timeout=timeout)
