@@ -25,7 +25,7 @@ cftime==1.6.3
 charset-normalizer==3.3.2
 chex==0.1.85
 click==8.1.7
-# climetlab==0.19.1
+climetlab==0.21.6
 cloudpickle==3.0.0
 colabtools==0.0.1
 colorama==0.4.6
