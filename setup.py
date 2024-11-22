@@ -11,7 +11,7 @@ setuptools.setup(
     description="Allows people without massive GPUs to easily run graphcast on remote runpod servers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Lewington-pitsos/remote-graphcast",
+    url="https://github.com/dragun0/remote-graphcast-CDSapi-0.7.x",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
