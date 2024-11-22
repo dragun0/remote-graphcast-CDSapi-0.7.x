@@ -33,7 +33,7 @@ contourpy==1.2.0
 cryptography==41.0.7
 cycler==0.12.1
 dask==2023.12.1
-dm-haiku==0.0.11
+dm-haiku==0.0.10
 dm-tree==0.1.8
 dnspython==2.4.2
 earthkit-meteo==0.0.1
