@@ -65,7 +65,7 @@ numpngw==0.1.3
 numpy==1.26.2
 orjson==3.9.10
 packaging==23.2
-pandas==2.1.4
+pandas
 paramiko==3.4.0
 partd==1.4.1
 pdbufr==0.11.0
