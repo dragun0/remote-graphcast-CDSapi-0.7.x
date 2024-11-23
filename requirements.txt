@@ -47,7 +47,7 @@ entrypoints==0.4
 etils==1.6.0
 exceptiongroup==1.2.0
 fastapi==0.108.0
-filelock==3.13.1
+filelock
 findlibs==0.0.5
 flax==0.7.5
 fonttools==4.47.0
@@ -92,7 +92,7 @@ opt-einsum==3.3.0
 optax==0.1.7
 orbax-checkpoint==0.4.8
 orjson==3.9.10
-packaging==23.2
+packaging
 pandas
 paramiko==3.4.0
 partd==1.4.1
