@@ -21,7 +21,7 @@ Run [graphcast](https://github.com/google-deepmind/graphcast) on a [runpod](http
 
 ## Installation
 
-`pip install remote-graphcast`
+`pip install git+https://github.com/dragun0/remote-graphcast-CDSapi-0.7.x.git`
 
 ## Example Code
 
