@@ -22,7 +22,7 @@ The modifications ensure continued functionality of the remote forecasting pipel
 
 ## Credits
 
-The original work was developed by [Louka Ewington-Pitsos](https://github.com/Lewington-pitsos) Lewington-Pitsos. All credit of the work goes to him. This fork is intended as a solution for continued GraphCast model usage with `remote-graphcast` after decomissioning of the legacy `cdsapi`.
+The original work was developed by [Louka Ewington-Pitsos](https://github.com/Lewington-pitsos). All credit of the work goes to him. This fork is intended as a solution for continued GraphCast model usage with `remote-graphcast` after decomissioning of the legacy `cdsapi`.
 
 ---
 
