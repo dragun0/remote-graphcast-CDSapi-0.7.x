@@ -22,7 +22,7 @@ The modifications ensure continued functionality of the remote forecasting pipel
 
 ## Credits
 
-The original work was developed by [Louka Ewington-Pitsos](https://github.com/Lewington-pitsos) Lewington-Pitsos. All credit of the work goes to him, this fork is intended as a solution for continued GraphCast model usage of [`remote-graphcast`], after decomissioning of the legacy `cdsapi`.
+The original work was developed by [Louka Ewington-Pitsos](https://github.com/Lewington-pitsos) Lewington-Pitsos. All credit of the work goes to him. This fork is intended as a solution for continued GraphCast model usage with `remote-graphcast` after decomissioning of the legacy `cdsapi`.
 
 ---
 
@@ -40,7 +40,7 @@ Run [graphcast](https://github.com/google-deepmind/graphcast) on a [runpod](http
 ## Requirements
 
 - python 3.8+ and pip
-- [cds.climate](https://cds.climate.copernicus.eu/api-how-to) credentials
+- [cds.climate](https://cds.climate.copernicus.eu/how-to-api) credentials
 - an [AWS](https://aws.amazon.com/console/) s3 bucket, free tier should be fine
 - S3 credentials to go with the bucket
 - [Runpod](https://www.runpod.io/) credentials
